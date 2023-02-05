@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Your awesome title | Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</title>
+<meta name="generator" content="Jekyll v4.3.2" />
+<meta property="og:title" content="Anne web Designer Freelancer" />
+<meta property="og:locale" content="pt-BR" />
+<meta name="description" content="Web Designer Freelancer, especializada na criação de sites, landingpages para captação de leads. Otimização de Sites SEO, Marketing Digital. Solicite Orçamento." />
+<meta property="og:description" content="Web Designer Freelancer, especializada na criação de sites, landingpages para captação de leads. Otimização de Sites SEO, Marketing Digital. Solicite Orçamento." />
+<link rel="canonical" href="http://localhost:4000/" />
+<meta property="og:url" content="http://localhost:4000/" />
+<meta property="og:site_name" content="Your awesome title" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Anne Web Designer Freelancer" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebSite","description":"Web Designer Freelancer, especializada na criação de sites, landingpages para captação de leads. Otimização de Sites SEO, Marketing Digital. Solicite Orçamento.","headline":"Anne Web Designer Freelancer","name":"Anne Web Designer Freelancer","url":"http://localhost:4000/"}</script>
+<!-- End Jekyll SEO tag -->
+<link rel="stylesheet" href="/assets/main.css">
+<link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
+<link rel="stylesheet" type="text/css" href="/assets/slick-theme.css"/>
+
+<link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Anne Web Designer Freelancer" /></head>
+<body><header class="site-header" role="banner">
+
+	<div class="wrapper">
+		<a class="site-title" rel="author" href="/">Anne.</a>
+		<nav class="site-nav">
+			<input type="checkbox" id="nav-trigger" class="nav-trigger" />
+			<label for="nav-trigger">
+			<span class="menu-icon">
+			<svg viewBox="0 0 18 15" width="18px" height="15px">
+			<path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"/>
+			</svg>
+			</span>
+			</label>
+
+			<div class="trigger">
+				<a class="page-link" href="#about">Sobre</a>
+				<a class="page-link" href="#work">Trabalhos</a>
+				<a class="page-link" href="#contact">Contato</a>
+			</div>
+		</nav>
+	</div>
+</header>
+
+<main class="page-content" aria-label="Content">
+	<section id="front">
+		<div class="wrapper">
+			<div class="home">
+				<div style="margin-right: 40px;">
+				<h1 class="titulo dark"><b>Olá</b>, me chamo <b>Anne</b><br>
+				<b><i>desenvolvedora web</i></b></h1>
+				<p>eu faço web sites de alta performance, bonitos, focados em conversão, em total sincronia com a sua marca e voltado para pessoas.</p>
+				<a href="#contact" class="btn btn-dark btn-cta">Vamos conversar</a>
+				</div>
+				<img src="/assets/img/myself.png" class="hiddenmobile" width="40%"/>
+			</div>
+		</div>
+	</section>
+	
+	<!-- About -->
+	<section id="about" class="bg-dark text-white">
+		<div class="wrapper">
+			<h1 class="titulo white">Quem <b>sou</b></h1>
+			<p style="font-weight: 200;">Web designer / programadora com quase 10 anos de experiência</p>
+			<p>Minhas habilidades incluem design web, mobile, desenvolvimento front-end, back-end, usabilidade, experiência de usuário. 
+			<br><br>Curto minimalisto, dark & clean aesthetics, tipografia, fotografia e soluções simplificadas de UX.</p>
+			<h2>Skills</h2>
+			<ul class="skills">
+				<li>HTML5</li>
+				<li>CSS3 / SCSS</li>
+				<li>BootStrap</li>
+				<li>Wordpress</li>
+				<li>PHP</li>
+				<li>Python</li>
+				<li>JavaScript</li>
+				<li>JQuery</li>
+				<li>MySql</li>
+				<li>RestAPI</li>
+				<li>UX/UI</li>
+				<li>Figma</li>
+				<li>Photoshop</li>
+				<li>Vue.js</li>
+			</ul>
+		</div>	
+	</section>
+	
+	
+	<!-- Work done -->
+	<section id="work">
+		<div class="wrapper">
+			<h1 class="titulo dark">Alguns <b>Trabalhos</b></h1>
+			<p>Confira alguns dos trabalhos que já fiz.</p>
+			
+					<br><br>
+		<div class="portfolio">
+			<div>
+				<img src="/assets/img/lp1.png" /> 
+				<h2>Landingpage percepção de valor do produto da empresa</h2>
+			</div>
+			<div>
+				<img src="/assets/img/lp2.png" /> 
+				<h2>Landingpage Blackfriday 2022</h2>
+			</div>
+			<div>
+				<img src="/assets/img/lp3.png" /> 
+				<h2>Landingpage para divulgação do novo plano de estudante</h2>
+			</div>
+			<div>
+				<img src="/assets/img/lp4.png" /> 
+				<h2>Landingpage preços atualizados do produto</h2>
+			</div>
+			<div>
+				<img src="/assets/img/lp5.png" /> 
+				<h2>Landingpage novo plano Ilimitado</h2>
+			</div>
+		</div>
+		</div>
+
+
+
+	</section>
+	
+	
+	
+	
+	<!-- Contact -->
+	<section id="contact">
+		<div class="wrapper">
+			<h1 class="titulo dark">Entre em <b>contato</b></h1>
+			<p>Me envie um e-mail ou uma mensagem no whatsapp para que eu possa lhe ajudar.</p>
+			
+			<div class="flex">
+				<img src="/assets/img/wpp.png" width="50px" /> <b>(21) 98020-5808</b>
+			</div>
+			<div class="flex">
+				<img src="/assets/img/gmail.png" width="50px" /> <b>annecamille05@gmail</b>
+			</div>
+		</div>
+
+
+
+	</section>
+	
+	
+</main>
+
+
+
+
+	
+<footer class="site-footer h-card">
+
+	<data class="u-url" href="/"></data>
+
+		<div class="wrapper">
+			<div class="footer-col-wrapper">
+				<div class="footer-col footer-col-1">
+					<ul class="contact-list">
+						<li class="p-name">Anne Web Designer</li>
+						<li><a class="u-email" href="mailto:annecamille05@gmail.com">annecamille05@gmail.com</a></li>
+					</ul>
+				</div>
+				<div class="footer-col footer-col-2"></div>
+				<div class="footer-col footer-col-3"></div>
+			</div>
+	</div>
+
+</footer>
+
+<script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+<script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+<script type="text/javascript" src="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+<script>
+
+$(document).ready(function(){
+$('.portfolio').slick({
+	dots: true,
+	arrows: false,
+  infinite: true,
+  speed: 500,
+  fade: true,
+  autoplay: true,
+  autoplaySpeed: 2000,
+  cssEase: 'linear'
+});
+
+  /*$('.portfolio').slick({
+  infinite: true,
+  slidesToShow: 3,
+  slidesToScroll: 3,
+  arrows: false,
+  autoplay: true,
+  });*/
+});
+</script>
+</body>
+
+</html>
